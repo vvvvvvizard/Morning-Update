@@ -1,0 +1,6 @@
+{
+  "name": "NeuralDigest",
+  "description": "An elegant morning intelligence assistant that aggregates and summarizes Artificial Intelligence news, performs sentiment analysis, integrates new email feeds since 6:00 AM, supports offline saving, and schedules a daily 7:00 AM push notification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

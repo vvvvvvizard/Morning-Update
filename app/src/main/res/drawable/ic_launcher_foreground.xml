@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Rays / Tech Rays -->
+    <path
+        android:fillColor="#FFD23F"
+        android:pathData="M54,18l3,10h-6z M54,90l3,-10h-6z M18,54l10,3v-6z M90,54l-10,3v-6z M28.5,28.5l6,6h-6z M79.5,79.5l-6,-6h6z M28.5,79.5l6,-6v6z M79.5,28.5l-6,6v-6z" />
+
+    <!-- Stylized Sun Core -->
+    <path
+        android:fillColor="#FF9F1C"
+        android:pathData="M 54,34 A 20,20 0 1,1 53.99,34 Z" />
+
+    <!-- Inner Core Shine -->
+    <path
+        android:fillColor="#FFE066"
+        android:pathData="M 54,40 A 14,14 0 1,1 53.99,40 Z" />
+
+    <!-- Tech / News Horizon Grid Lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,68 h40 M28,74 h52 M38,80 h32" />
+
+</vector>
